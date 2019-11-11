@@ -9,7 +9,7 @@
 
 ### IntelliJ IDEA ###
 .idea
-.out
+out/
 .build
 *.iws
 *.iml
